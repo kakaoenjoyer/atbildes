@@ -1,0 +1,11 @@
+diaktriskās
+arrMasivaNosaukums
+pirmaisManigais
+PirmaisMainigais
+otrais_mainigais
+ir
+nav
+drikst
+nedrīkst
+#
+""""""
